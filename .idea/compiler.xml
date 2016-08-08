@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mateu-cms" />
+        <module name="model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mateu-cms" target="1.5" />
+      <module name="model" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
