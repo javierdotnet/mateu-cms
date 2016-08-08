@@ -11,7 +11,7 @@ It must have the following features:
 - version control
 - publishing workflow
 - server technology aware (by using rest web services)
-- wsyiwyg editor
+- wysiwyg editor
 - several base templates
 - add your own components
 
