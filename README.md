@@ -19,4 +19,4 @@ Here I will put the JPA entities.
 
 I still have to decide if I will use Eclipselink or Openjpa. I will see...
 
-Have a nice day ;)
+I hope you like it ;)
