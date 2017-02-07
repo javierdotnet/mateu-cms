@@ -10,13 +10,12 @@ It must have the following features:
 - you will be able to duplicate and remove websites
 - version control
 - publishing workflow
-- server technology aware (by using rest web services)
+- server technology agnostic (by using rest web services)
 - wysiwyg editor
 - several base templates
 - add your own components
 
-Here I will put the JPA entities.
+This project will depend on use mateu-case to create the user defined model. 
 
-I still have to decide if I will use Eclipselink or Openjpa. I will see...
 
 I hope you like it ;)
